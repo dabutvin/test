@@ -4,6 +4,6 @@ workflow "NOTICE file generate" {
 }
 
 action "Chive Action" {
-  uses = "dabutvin/chive-action@ls2"
+  uses = "dabutvin/chive-action@ls"
   secrets = ["GITHUB_TOKEN"]
 }
