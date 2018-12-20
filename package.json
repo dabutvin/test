@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dabutvin/test#readme",
   "dependencies": {
+    "async": "^2.6.1",
     "glob": "^7.1.3"
   }
 }
