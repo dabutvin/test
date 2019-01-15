@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dabutvin/test#readme",
   "dependencies": {
-    "glob": "^7.1.3"
+    "glob": "^7.1.3",
+    "fs-extra": "^7.0.1"
   }
 }
